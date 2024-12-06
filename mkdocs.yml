@@ -1,5 +1,5 @@
-site_name: SGRODOL
-site_url: https://seeenorf.github.io/SGRODOL/
+site_name: Project MNG
+site_url: https://seeenorf.github.io/MNG/
 
 theme:
   name: material
@@ -58,7 +58,4 @@ nav:
       - NON SEI MAI TU: about/NON-SEI-MAI-TU.md
   - Blog:
       - blog/index.md
-  - Documentazione:
-      - Documentazione: Codici/Documentazione.md
-  - Foto: Codici/Foto-Doc.md
   - Tags: tags.md

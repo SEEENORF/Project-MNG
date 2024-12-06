@@ -4,8 +4,6 @@ tags:
 ---
 
 
-![CIAO](<FOTO-PER-SITO.jpg>){ width="300" }
-
 ### <font color="red">CHI SONO?</font></li>
 
 Piacere sono Fabio Maria Rotoloni e attualmente sei sul mio sito!
